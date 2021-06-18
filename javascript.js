@@ -28,8 +28,8 @@ setInterval(function () {
     if(display<600)
     {
       document.body.style.backgroundImage = "url('lonely_noon.jpg')";
-     document.getElementsByTagName("h1").style.color = "#000";
-     document.getElementsByTagName("h2").style.color = "#000";
+     //document.getElementsByTagName("h1").style.color = "#000";
+     //document.getElementsByTagName("h2").style.color = "#000";
       }
     else
     {document.body.style.backgroundImage = "url('afternoon.jpg')";}
