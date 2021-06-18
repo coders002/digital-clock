@@ -11,7 +11,7 @@ setInterval(function () {
 
   // hour= d.setHours(13);
   // console.log(hour);
-  hour= 13;
+  hour= 8;
   if(hour>=5&&hour<12)
   {
     if(display<600)
